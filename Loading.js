@@ -8,7 +8,7 @@ export default function Loading() {
       colors={["#4c669f", "#3b5998", "#192f6a"]}
       style={styles.container}
     >
-      <View style={styles.container}>
+      <View>
         <StatusBar barStyle="light-content" />
         <Text style={styles.text}>Getting the fucking weather</Text>
       </View>
